@@ -1,0 +1,16 @@
+{
+  "themes": [
+    {
+      "theme": "Фрагменты",
+      "image_url": "https://www.google.com/search?newwindow=1&sca_esv=4b6bced2fca93f77&sca_upv=1&sxsrf=ADLYWIIs2aLM4cllCXKL0L0J8bOZ98l22Q:1715961716016&q=%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B5%D0%BD%D1%82&uds=ADvngMiwEeYxVmJNWSPNwz0Pd3EhfncWe1Nujl9qliQtksBs_6xNqFMUSQBvy-URwaIAqiU-I1ls7iRRfKM_PhDXoS4qUHjgJDm79tjjku1ggmb8P5eZ9KMnf_VhTqT0R8X1VM0bUucnCtz-k6tfxmZ4FoeFwocXKE1qt1Snnb_b6_5nYWFcEXvfNtLKxSh21i94wIY1BwLkaQHucrNYleLpmrXQMjyZa6P5m6HU_wMRKf7sPsC18jkDssKl38tvoSWgPOwOTeFxE7f9xGLLSCQzN1jwY8rlTLy2T7UpG7eZARqzbT-3u9-niRe0mlYE7L8KJqH-1wfb2xCQ0PW_moc7vI4yAu43PjvPB0w0VJNRt-opHnH6iZs&udm=2&prmd=ivsnbt&sa=X&ved=2ahUKEwjn35_Eh5WGAxVzIRAIHb9MBmIQtKgLegQIDxAB&biw=1920&bih=922&dpr=1#vhid=QvrqzlJdoIRb7M&vssid=mosaic"
+    },
+    {
+      "theme": "Activity",
+      "image_url": "https://masterpiecer-images.s3.yandex.net/c9d6e2389e7011ee8fd8222e7fa838a6:upscaled"
+    },
+    {
+      "theme": "Ресурсы",
+      "image_url": "https://dev-mind.fr/img/training/android/firstapp/android-resource1-0e8b4389f8.png"
+    }
+  ]
+}
