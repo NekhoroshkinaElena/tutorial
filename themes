@@ -23,6 +23,14 @@
     {
       "theme": "SOLID",
       "image_url": "https://androidschool.ru/wp-content/uploads/2024/02/solid-logo.png"
+    },
+    {
+      "theme": "Aссоциация, Композиция, Агрегация",
+      "image_url": "https://teletype.in/files/04/b6/04b64f16-4e84-44bb-adaf-543e5797a292.jpeg"
+    },
+    {
+      "theme": "Паттерны проектирования",
+      "image_url": "https://i.stack.imgur.com/JBnVS.png"
     }
   ]
 }
