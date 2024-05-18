@@ -1,6 +1,10 @@
 {
   "themes": [
     {
+      "theme": "ООП",
+      "image_url": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000185a51c7dc6f63ed553b458d8cbbb/M_height"},
+    },
+    {
       "theme": "Фрагменты",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzU0K4USWG8jMLNt9qwlrHhKDNDfV6pr63xnH7bu3WA&s"},
     {
@@ -16,8 +20,12 @@
       "image_url": "https://i.stack.imgur.com/oPzNf.png"
     },
     {
-      "theme": "Empty",
+      "theme": "Git",
       "image_url": "https://whey.kz/wp-content/uploads/2020/11/placeholder.png"
+    },
+     {
+      "theme": "SOLID",
+      "image_url": "https://androidschool.ru/wp-content/uploads/2024/02/solid-logo.png"
     }
   ]
 }
