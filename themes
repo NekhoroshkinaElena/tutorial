@@ -10,6 +10,10 @@
     {
       "theme": "Ресурсы",
       "image_url": "https://dev-mind.fr/img/training/android/firstapp/android-resource1-0e8b4389f8.png"
+    },
+    {
+      "theme": "BottomNavigationBar",
+      "image_url": "https://i.stack.imgur.com/oPzNf.png"
     }
   ]
 }
