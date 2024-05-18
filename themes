@@ -14,6 +14,10 @@
     {
       "theme": "BottomNavigationBar",
       "image_url": "https://i.stack.imgur.com/oPzNf.png"
+    },
+    {
+      "theme": "Empty",
+      "image_url": null
     }
   ]
 }
