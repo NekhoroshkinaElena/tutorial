@@ -2,11 +2,12 @@
   "themes": [
     {
       "theme": "ООП",
-      "image_url": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000185a51c7dc6f63ed553b458d8cbbb/M_height"},
+      "image_url": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000185a51c7dc6f63ed553b458d8cbbb/M_height"
     },
     {
       "theme": "Фрагменты",
-      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzU0K4USWG8jMLNt9qwlrHhKDNDfV6pr63xnH7bu3WA&s"},
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTzU0K4USWG8jMLNt9qwlrHhKDNDfV6pr63xnH7bu3WA&s"
+    },
     {
       "theme": "Activity",
       "image_url": "https://masterpiecer-images.s3.yandex.net/c9d6e2389e7011ee8fd8222e7fa838a6:upscaled"
