@@ -31,6 +31,21 @@
     {
       "theme": "Паттерны проектирования",
       "image_url": "https://i.stack.imgur.com/JBnVS.png"
+    },
+    {
+      "theme": "Основы Java",
+      "image_url": "https://appmaster.io/api/_files/bLzbyrE3kokyk9p7QthYmA/download/",
+      "tests": [
+        {
+          "title" : "Типы ссылок",
+          "questions": [
+            {
+              "question": "Назовите какие типы ссылок существуют в Java",
+              "answer": "Strong references \n Weak references \n Soft references \n Phantom Reference"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
