@@ -34,14 +34,29 @@
     },
     {
       "theme": "Основы Java",
+      "image_url": "https://ultravds.com/wp-content/uploads/2023/10/756533742439601.jpg",
+      "tests": [
+        {
+          "title" : "Типы ссылок Java",
+          "questions": [
+            { 
+              "question": "Назовите какие типы ссылок существуют в Java",
+              "answer": "Strong references \n Weak references \n Soft references \n Phantom Reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Основы Kotlin",
       "image_url": "https://appmaster.io/api/_files/bLzbyrE3kokyk9p7QthYmA/download/",
       "tests": [
         {
-          "title" : "Типы ссылок",
+          "title" : "Модификаторы доступа",
           "questions": [
             {
-              "question": "Назовите какие типы ссылок существуют в Java",
-              "answer": "Strong references \n Weak references \n Soft references \n Phantom Reference"
+              "question": "Перечислите модиaикаторы доступа в Kotlin",
+              "answer": "В Kotlin предусмотрено четыре модификатора доступа: private, protected, internal и public. Если явно не использовать никакого модификатора, то по умолчанию применяется public."
             }
           ]
         }
