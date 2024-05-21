@@ -1,6 +1,10 @@
 {
   "themes": [
     {
+      "theme": "Android",
+      "image_url": "https://androidinsider.ru/wp-content/uploads/2020/03/android194125-750x422.jpeg"
+    },
+    {
       "theme": "ООП",
       "image_url": "https://avatars.mds.yandex.net/get-sprav-products/5373629/2a00000185a51c7dc6f63ed553b458d8cbbb/M_height"
     },
